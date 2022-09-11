@@ -1,0 +1,79 @@
+Session1/sigprocMXC_filterGlass.ipynb
+Session1/sigprocMXC_filterGlass.m
+Session10 Feature detection/sigprocMXC_AUC.m
+Session10 Feature detection/sigprocMXC_EMGonsets.m
+Session10 Feature detection/sigprocMXC_featuredetection.ipynb
+Session10 Feature detection/sigprocMXC_FWHM.m
+Session10 Feature detection/sigprocMXC_localMinMax.m
+Session10 Feature detection/sigprocMXC_signalFromNoise.m
+Session10 Feature detection/sigprocMXC_waveletFeatureEx.m
+Session11 Variability/sigprocMXC_CV.m
+Session11 Variability/sigprocMXC_entropy.m
+Session11 Variability/sigprocMXC_SNR.m
+Session11 Variability/sigprocMXC_variability.ipynb
+Session11 Variability/sigprocMXC_windowedVar.m
+Session2 Denoising/sigprocMXC_averaging.m
+Session2 Denoising/sigprocMXC_detrend.m
+Session2 Denoising/sigprocMXC_GauSmoothSpikes.m
+Session2 Denoising/sigprocMXC_Gaussian_smooth.asv
+Session2 Denoising/sigprocMXC_Gaussian_smooth.m
+Session2 Denoising/sigprocMXC_mean_smooth.m
+Session2 Denoising/sigprocMXC_median_filter.m
+Session2 Denoising/sigprocMXC_polynomialDetrend.m
+Session2 Denoising/sigprocMXC_template_projection.m
+Session2 Denoising/sigprocMXC_timeSeriesDenoising.ipynb
+Session2 Denoising/sigprocMXC_TKEO.m
+Session3 Spectral analysis/sigprocMXC_FourierTransform.m
+Session3 Spectral analysis/sigprocMXC_SpectBirdcall.m
+Session3 Spectral analysis/sigprocMXC_spectral.ipynb
+Session3 Spectral analysis/sigprocMXC_Welch.m
+Session4 Complex numbers/signprocMXC_complexNumbers.ipynb
+Session4 Complex numbers/sigprocMXC_complexAddSub.m
+Session4 Complex numbers/sigprocMXC_complexConj.m
+Session4 Complex numbers/sigprocMXC_complexDivision.m
+Session4 Complex numbers/sigprocMXC_complexIntro.m
+Session4 Complex numbers/sigprocMXC_complexMult.m
+Session4 Complex numbers/sigprocMXC_complexPolar.m
+Session7 Wavelet analyis/sigprocMXC_timefreq.m
+Session7 Wavelet analyis/sigprocMXC_timefreqBrain.m
+Session7 Wavelet analyis/sigprocMXC_wavelet.ipynb
+Session7 Wavelet analyis/sigprocMXC_waveletConv.m
+Session7 Wavelet analyis/sigprocMXC_wavelets.m
+Session7 Wavelet analyis/sigprocMXC_wavelets4narrowband.m
+Session7 Wavelet analyis/sigprocMXC_waveletTF.m
+Session5 Filtering/sigprocMXC_2stageWide.m
+Session5 Filtering/sigprocMXC_butter.m
+Session5 Filtering/sigprocMXC_causal0phase.m
+Session5 Filtering/sigprocMXC_filtering_part1.ipynb
+Session5 Filtering/sigprocMXC_filtering_part2.ipynb
+Session5 Filtering/sigprocMXC_filterTheBirds.m
+Session5 Filtering/sigprocMXC_fir1.m
+Session5 Filtering/sigprocMXC_firls.m
+Session5 Filtering/sigprocMXC_highpass.m
+Session5 Filtering/sigprocMXC_linenoise.m
+Session5 Filtering/sigprocMXC_lowpass.m
+Session5 Filtering/sigprocMXC_narrowband.m
+Session5 Filtering/sigprocMXC_reflection.m
+Session5 Filtering/sigprocMXC_rolloff.m
+Session5 Filtering/sigprocMXC_signalLength.m
+Session5 Filtering/sigprocMXC_windowSinc.m
+Session6 Convolution/sigprocMXC_convolution.ipynb
+Session6 Convolution/sigprocMXC_convolutionTheorem.m
+Session6 Convolution/sigprocMXC_FreqDomainGaus.m
+Session6 Convolution/sigprocMXC_Gaussian_smooth.asv
+Session6 Convolution/sigprocMXC_planckBandPass.m
+Session6 Convolution/sigprocMXC_timeConvolution.m
+Session6 Convolution/sigprocMXC_TimeDomainGaus.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_downsample.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_dtw.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_extrap.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_interp.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_irregular.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_multirate.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_resample.ipynb
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_spectralInterp.m
+Session8 Resampling, Interpolation, Exterpolation/sigprocMXC_upsample.m
+Session9 Outlier detection/sigprocMXC_localOutliers.m
+Session9 Outlier detection/sigprocMXC_outliers.ipynb
+Session9 Outlier detection/sigprocMXC_outZ.m
+Session9 Outlier detection/sigprocMXC_RMSoutlierWindows.m
